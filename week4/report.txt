@@ -1,0 +1,8 @@
+Rivet	26	chicken	Swamp
+Forness	30	dromedary	Sewage
+Vanderburg	26	fox	River
+Gorham	24	goat	Sewage
+Mccafferty	21	gopher	Sewage
+Landey	30	gorilla	River
+Kesner	28	lamb	Sewage
+Union of genes:	gene100, gene102, gene107, gene122, gene130, gene134, gene140, gene143, gene146, gene149, gene165, gene186, gene187, gene196, gene199, gene20, gene234, gene25, gene271, gene286, gene297, gene305, gene307, gene316, gene322, gene328, gene332, gene347, gene355, gene360, gene361, gene369, gene371, gene378, gene398, gene409, gene410, gene421, gene428, gene431, gene439, gene454, gene457, gene461, gene490, gene67, gene68, gene77, gene86
